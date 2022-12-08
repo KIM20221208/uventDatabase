@@ -1,0 +1,16 @@
+{
+    "category": "party",
+    "title": "Let's Roll!",
+    "text": "Do what we want to do! No one could stop us!",
+    "eventDate": {
+            "startTime": "2022/11/24 19:00",
+            "endTime": "2022/11/24 22:00"
+        },
+    "place": {   
+            "city": "Ube Yamaguchi",
+            "district": "Tokiwa",
+            "details": "kokusaikoryukaikan C201"
+        },
+    "recruitDeadline": "2022/11/24 12:00",
+    "images": "some images"
+}
